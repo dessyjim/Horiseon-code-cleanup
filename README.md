@@ -11,7 +11,7 @@ N/A
 
 ## Usage
 
-[Screenshot of Horiseon webpage](../Horiseon-code-cleanup/assets/images/Horiseon-webpage.png)
+[Screenshot of Horiseon webpage](/Horiseon-code-cleanup/assets/images/Horiseon-webpage.png)
 
 
 
@@ -24,4 +24,3 @@ https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
 ## License
 N/A
-
