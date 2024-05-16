@@ -133,7 +133,7 @@ aside {
     color: #ffffff;
     display:block;
     flex-wrap: wrap;
-    justify-content: flex-end;
+    justify-content: flex-start;
 }
 
 
@@ -167,6 +167,7 @@ aside {
     max-height: 200px;
     float: left;
     margin-left:25px;
+    margin-right: 25px;
 }
 
 .online-reputation {
@@ -179,7 +180,8 @@ aside {
 .media-marketing {
     max-height: 200px;
     float: left;
-    margin-left: 25px;
+    margin-left:25px;
+    margin-right: 25px;
 }
 
 .search-engine-optimization h2 {
