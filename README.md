@@ -11,9 +11,15 @@ N/A
 
 ## Usage
 
+<<<<<<< HEAD
 
 
 [Screenshot of Horiseon webpage](../Horiseon-code-cleanup/assets/images/Horiseon-webpage.png)
+=======
+[Screenshot of Horiseon webpage](/Horiseon-code-cleanup/assets/images/Horiseon-webpage.png)
+
+
+>>>>>>> cd6329ceb88ff7d632d03306034bf806a8670395
 
 ## Credits
 Link used:
@@ -24,4 +30,3 @@ https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
 ## License
 N/A
-
