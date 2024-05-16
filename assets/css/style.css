@@ -47,6 +47,7 @@ a {
 
 p {
     font-size: 16px;
+    
 }
 
 #hero {
@@ -58,14 +59,13 @@ p {
     background-position: center;
 }
 
-
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -124,63 +124,76 @@ p {
     max-width: 150px;
 }
 
-#search-engine-optimization {
+.search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    display:block;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+
+
+
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+    display:block;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+    display: block;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+
+}
+
+.search-engine {
+    max-height: 200px;
+    float: left;
+    margin-left:25px;
+}
+
+.online-reputation {
+    max-height: 200px;
+    float: right;
+    margin-right: 25px;
     
 }
 
-#online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-
-}
-
-#social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-#search-engine {
+.media-marketing {
     max-height: 200px;
-    display: flex;
-    align-items: flex-start;
+    float: left;
+    margin-left: 25px;
 }
 
-#online-reputation {
-    max-height: 200px;
-    position: absolute; 
-    float: right;
-}
-
-#media-marketing {
-    max-height: 200px;
-}
-
-#search-engine h2 {
+.search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
-    margin-left: left;
+    
 }
 
-#online-reputationt h2 {
+.online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-#social-media-marketing h2 {
+.social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
