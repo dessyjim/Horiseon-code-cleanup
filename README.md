@@ -10,19 +10,12 @@ This website was reworked in hopes of making it more user friendly and accessibl
 N/A
 
 ## Usage
-
-<<<<<<< HEAD
-
+Open Chrome DevTools to show you code used for webpage. You can use Chrome DevTools to see the different areas of the webpage and how the CSS sheet correlates to the HTML.
 
 [Screenshot of Horiseon webpage](../Horiseon-code-cleanup/assets/images/Horiseon-webpage.png)
-=======
-[Screenshot of Horiseon webpage](/Horiseon-code-cleanup/assets/images/Horiseon-webpage.png)
 
-
->>>>>>> cd6329ceb88ff7d632d03306034bf806a8670395
 
 ## Credits
-Link used:
 
 https://www.w3schools.com/html/html5_semantic_elements.asp
 https://dev.to/kenbellows/stop-using-so-many-divs-an-intro-to-semantic-html-3i9i
